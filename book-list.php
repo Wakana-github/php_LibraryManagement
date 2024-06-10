@@ -1,5 +1,5 @@
 <!--
-Author: Wakana Gushi
+Author: Wakana.G
 Purpose:  Display a list of books based on book type selected in the search page (top-page.php)
 Created: 25/04/2024
 Last modified: 26/04/2024

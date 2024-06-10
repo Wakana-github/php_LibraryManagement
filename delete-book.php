@@ -1,5 +1,5 @@
 <!--
-Author: Wakana Gushi
+Author: Wakana.G
 Purpose:  Delete a selected book.
 Created: 25/04/2024
 Last modified: 26/04/2024

@@ -1,5 +1,5 @@
 <!--
-Author: Wakana Gushi
+Author: Wakana.G
 Purpose:  Enter new book data into the database.
 Created: 25/04/2024
 Last modified: 25/04/2024

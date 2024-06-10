@@ -1,5 +1,5 @@
 <!--
-Author: Wakana Gushi
+Author: Wakana.G
 Purpose: 　Edit book details in the Library database.
 Created: 25/04/2024
 Last modified: 7/05/2024

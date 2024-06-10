@@ -1,5 +1,5 @@
 <!--
-Author: Wakana Gushi
+Author: Wakana.G
 Purpose: Validate book details from edit-book.php to update book data
 Created: 25/04/2024
 Last modified: 26/04/2024

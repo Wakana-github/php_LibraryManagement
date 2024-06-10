@@ -1,5 +1,5 @@
 <!--
-Author: Wakana Gushi
+Author: Wakana.G
 Purpose: Validate new book input from new-book.php
 Created: 25/04/2024
 Last modified: 26/04/2024
