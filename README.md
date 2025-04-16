@@ -1,0 +1,3 @@
+This program is written in HTML and PHP and styled with BootStrap to imitate a library system.
+It first needs to login to the system, and allows us to add a book, delete a book, update book information, and display a list of books stored in the database. This repository includes an SQL command for the test library database ("LibraryDatabase.sql").
+This repository also includes site navigation and a prototype developed during the planning phase.
