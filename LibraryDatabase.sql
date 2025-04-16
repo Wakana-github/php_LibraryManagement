@@ -30,7 +30,7 @@ INSERT INTO Books (BookID, ISBN, Title, Author, BookTypeID, Price) VALUES
 (15, '0-877-88306-8',  'Cooking to Kill: The Poison Cook-book',   'Medinger',            'H', 49.99),
 (16, '0-578-07217-3',  'How to Teach Qantum Physics to your Dog', 'Timmerman',           'S', 37.40);
 
-DROP TABLE IF EXISTS BookTypes;
+DROP TABLE IF EXISTS Booktypes;
 CREATE TABLE Booktypes (
   BookTypeID VARCHAR(3) PRIMARY KEY,
   BookType VARCHAR(50) NOT NULL
